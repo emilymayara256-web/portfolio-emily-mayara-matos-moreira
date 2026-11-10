@@ -20,7 +20,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Ciência da Computação na Universidade da Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em  Desenvolvimento Backend / Análise de Dados.
+Atualmente cursando o 2º período de Ciência da Computação na Universidade da Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em  Desenvolvimento Backend / Análise de Dados.
  
 * **Habilidades Técnicas:** Python, Visual Studio Code, Collab
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
